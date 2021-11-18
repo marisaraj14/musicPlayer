@@ -1,0 +1,37 @@
+[{
+    "song": "Loretta",
+    "artist": "Ginger Root",
+    "path":"loretta.mp3"
+}, {
+    "song": "Lockdown",
+    "artist": "Priya Ragu",
+    "path":"lockdown.mp3"
+}, {
+    "song": "Love Never Felt So Good",
+    "artist": "Michael Jackson",
+    "path":"feltgood.mp3"
+}, {
+    "song": "No Srubs",
+    "artist": "TLC",
+    "path":"noscrubs.mp3"
+}, {
+    "song": "Survive",
+    "artist": "David Bowie",
+    "path":"survive.mp3"
+}, {
+    "song": "Comin Back",
+    "artist": "The Subrubs",
+    "path":"cominback.mp3"
+}, {
+    "song": "Breakaway",
+    "artist": "Kelly Clarkson",
+    "path":"breakaway.mp3"
+}, {
+    "song": "Come Away With Me",
+    "artist": "Naroah Jones",
+    "path":"comeaway.mp3"
+}, {
+    "song": "Rasputin",
+    "artist": "Boney M",
+    "path":"rasputin.mp3"
+}]
